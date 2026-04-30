@@ -59,3 +59,17 @@
     - **強い人** はシャドータスク文脈で繰り返し登場。[shadow_task.md](shadow_task.md) と [capacity.md](capacity.md) の両方で取り上げ
     - **ネガティブ・ケイパビリティ**、**プロセス原理主義**、**グッドハートの法則** は inline 言及のみ
     - **文芸的タスク管理** は後の章（literate.md）で扱われる予定。views.md の「ネットワーク」「センテンス」で言及
+
+## [2026-05-01] ingest | partner_taskmanagement「パートナータスク管理」
+- 出典: `raw/partner_taskmanagement.md`
+- 要約ページ: [「パートナータスク管理」](source_partner_taskmanagement.md)
+- 新規作成した概念ページ:
+    - [ファミリア・デバフ](familiar_debuff.md)
+    - [3C](3c.md)
+    - [トーカビリティ](talkability.md)
+- 既存ページの更新:
+    - [盤外戦](bangaisen.md) — 章 2 の仮置きから本格定義に書き直し。6 つのテクニック（フリーライティング/スキャン＆ライティング/トピックトーク/ベストスリー/オフィスアワー/ディープハグトーク）を追記
+    - [パートナータスク管理](partner_task_management.md) — 章ハブとして大幅増補（ツール変遷、3C、盤外戦、トーカビリティ）
+- メモ:
+    - 6 つのテクニックは独立ページにせず [bangaisen.md](bangaisen.md) 内に収めた
+    - **夫婦 Slack / カップル Slack / ひとり Slack** は造語的だが、ツール変遷の文脈に留めて独立ページにはしていない

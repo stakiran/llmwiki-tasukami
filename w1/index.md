@@ -59,6 +59,11 @@
 - [専有の管理](property_management.md)
 - [脱拘束](unbinding.md) — 専有を軽減する営み
 
+### パートナータスク管理: 本質と前提
+- [3C](3c.md) — Chat per Task / Calendar View / Concept
+- [ファミリア・デバフ](familiar_debuff.md) — 親しい間柄ゆえのデバフ
+- [トーカビリティ](talkability.md) — 対話できる素養
+
 ### 姿勢
 - [模索](exploration.md) — 自分に合ったタスク管理を自分で探すこと
 
@@ -66,6 +71,7 @@
 - [「タスク管理を眺める」](source_view_taskmanagement.md)
 - [「個人タスク管理を眺める」](source_view_personal_taskmanagement.md)
 - [「プロジェクトタスク管理」](source_project_taskmanagement.md)
+- [「パートナータスク管理」](source_partner_taskmanagement.md)
 
 ## ログ
 - [ログ](_log.md) — ingest / query / lint の時系列記録
