@@ -8,9 +8,6 @@
     - [タスク管理](task_management.md) / [狭義と広義](narrow_broad.md) / [MCA](mca.md) / [タスク管理の公理](axioms.md)
     - [3P 分類](3p.md) / [プロジェクトタスク管理](project_task_management.md) / [パートナータスク管理](partner_task_management.md) / [個人タスク管理](personal_task_management.md)
     - [模索](exploration.md)
-- メモ:
-    - 第 1 章として土台概念が一気に出る章。以降の章で各概念ページが厚くなっていく想定
-    - オルタスク（予定、入れ物、ビジョン、メモ、習慣など）は後の章で詳述されるとの記述あり。詳細は届いていない
 
 ## [2026-04-30] migrate | 構造のフラット化
 - w1 の運用ルール変更に伴い、`concepts/` と `sources/` を廃止しフラット構造に移行
@@ -34,10 +31,6 @@
     - [個人タスク管理](personal_task_management.md) — 章の各観点へのクロスリンクを追加
     - [オルタスク](altask.md) — 繰り返しの力でまわす [戦略](strategies.md) との関連を追加
     - [狭義と広義](narrow_broad.md) — [調動脈](choudoumyaku.md) を広義の例として追加
-- メモ:
-    - 文脈（Context）は重要かつ奥深い概念として後の章へ持ち越し（[choudoumyaku.md](choudoumyaku.md) 内に予告のみ）
-    - 盤外戦の詳細はパートナータスク管理の章で扱われる予定。現時点ではこの章での記述から要約ページを作成
-    - ポモドーロ・テクニック、タスクシュート、アイビー・リー・メソッド、時間管理マトリクス、マニャーナの法則、タイムボックス、Habitica などの固有名詞は inline 言及のみ。`ref.md` を ingest した際にリンクを張る想定
 
 ## [2026-05-01] ingest | project_taskmanagement「プロジェクトタスク管理」
 - 出典: `raw/project_taskmanagement.md`
@@ -49,27 +42,32 @@
     - [5 つの管理対象](management_targets.md) / [進捗の管理](progress_management.md) / [質の管理](quality_management.md) / [プロセスの管理](process_management.md) / [リソースの管理](resource_management.md) / [専有の管理](property_management.md)
     - [脱拘束](unbinding.md)
 - 既存ページの更新:
-    - [プロジェクトタスク管理](project_task_management.md) — 章全体のハブとして大幅増補
-    - [パートナータスク管理](partner_task_management.md) — 注視機能の洗練について本書での言及を追記
+    - [プロジェクトタスク管理](project_task_management.md) — 章ハブとして大幅増補
+    - [パートナータスク管理](partner_task_management.md) — 注視機能の言及を追記
     - [個人タスク管理](personal_task_management.md) — [脱拘束](unbinding.md) との同義性を追記
-    - [スタンス](stances.md) — Automation の詳細が [ビューの種類](views.md) 余談に展開されている旨を追記
-- メモ:
-    - 678 行の大ボリューム章。プロジェクトタスク管理の体系的整理が一通り完了
-    - **反応的状況**（Reactive Situation）は [Adjust](adjust.md) 内のセクションに収めた（独立ページにせず）
-    - **強い人** はシャドータスク文脈で繰り返し登場。[shadow_task.md](shadow_task.md) と [capacity.md](capacity.md) の両方で取り上げ
-    - **ネガティブ・ケイパビリティ**、**プロセス原理主義**、**グッドハートの法則** は inline 言及のみ
-    - **文芸的タスク管理** は後の章（literate.md）で扱われる予定。views.md の「ネットワーク」「センテンス」で言及
+    - [スタンス](stances.md) — Automation の詳細を [ビューの種類](views.md) へ link
 
 ## [2026-05-01] ingest | partner_taskmanagement「パートナータスク管理」
 - 出典: `raw/partner_taskmanagement.md`
 - 要約ページ: [「パートナータスク管理」](source_partner_taskmanagement.md)
 - 新規作成した概念ページ:
-    - [ファミリア・デバフ](familiar_debuff.md)
-    - [3C](3c.md)
-    - [トーカビリティ](talkability.md)
+    - [ファミリア・デバフ](familiar_debuff.md) / [3C](3c.md) / [トーカビリティ](talkability.md)
 - 既存ページの更新:
-    - [盤外戦](bangaisen.md) — 章 2 の仮置きから本格定義に書き直し。6 つのテクニック（フリーライティング/スキャン＆ライティング/トピックトーク/ベストスリー/オフィスアワー/ディープハグトーク）を追記
-    - [パートナータスク管理](partner_task_management.md) — 章ハブとして大幅増補（ツール変遷、3C、盤外戦、トーカビリティ）
+    - [盤外戦](bangaisen.md) — 章 2 の仮置きから本格定義に書き直し、6 つのテクニックを追記
+    - [パートナータスク管理](partner_task_management.md) — 章ハブとして大幅増補
+
+## [2026-05-01] ingest | strategy「タスク管理の戦略」
+- 出典: `raw/strategy.md`（803 行）
+- 要約ページ: [「タスク管理の戦略」](source_strategy.md)
+- 新規作成した概念ページ:
+    - 9 戦略: [Dailer](dailer.md) / [Calendarer](calendarer.md) / [Slotter](slotter.md) / [Issueist](issueist.md) / [Topician](topician.md) / [Richild](richild.md) / [Monolith](monolith.md) / [Robot](robot.md) / [Tracker](tracker.md) / [Inboxer](inboxer.md)
+    - 前提知識: [物タスク](object_task.md) / [ルーチンタスク](routine_task.md)
+    - 重要な造語: [オプラン](oplan.md) / [アクティブレイジー](active_lazy.md)
+- 既存ページの更新:
+    - [戦略](strategies.md) — 章 2 の概要から、9 戦略の各論ハブに昇格
+    - [オルタスク](altask.md) — [ルーチンタスク](routine_task.md) との関連を追記
 - メモ:
-    - 6 つのテクニックは独立ページにせず [bangaisen.md](bangaisen.md) 内に収めた
-    - **夫婦 Slack / カップル Slack / ひとり Slack** は造語的だが、ツール変遷の文脈に留めて独立ページにはしていない
+    - 戦略の中の小さな名前付き概念（デイリーエリア / ツイン / トリプル / インフィニティ / クインタプル、セクション、トピック指向、強い・緩いロボット、ハビタン、習慣タスク、委譲者の 4 パターン等）は親戦略ページ内のセクションに収めた
+    - **文芸的タスク管理** は [Topician](topician.md) で予告のみ。後の章 literate.md で本格定義される予定
+    - **プレーンテキストタスク管理** は [Monolith](monolith.md) で予告のみ。後の章 plaintext.md で本格定義される予定
+    - **インボックスゼロ** は [Issueist](issueist.md) と [Inboxer](inboxer.md) で言及。`ref.md` ingest 時に独立リンク化を検討

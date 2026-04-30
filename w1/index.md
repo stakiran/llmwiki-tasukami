@@ -7,6 +7,8 @@
 ### タスクそのもの
 - [タスク](task.md)
 - [オルタスク](altask.md)
+- [物タスク](object_task.md) — タスクを想起する物
+- [ルーチンタスク](routine_task.md) — 定期的なタスク
 
 ### タスク管理の捉え方
 - [タスク管理](task_management.md)
@@ -33,9 +35,17 @@
 ### 個人タスク管理: 方針
 - [浅い/深いタスク管理](shallow_deep.md)
 - [アナログ/デジタル](analog_digital.md)
-- [戦略](strategies.md)
+- [戦略](strategies.md) — 9 戦略のハブ
 - [スタンス](stances.md)
 - [盤外戦](bangaisen.md)
+
+### 個人タスク管理: 戦略の各論
+- 時間で区切る: [Dailer](dailer.md) / [Calendarer](calendarer.md) / [Slotter](slotter.md)
+- 話題で区切る: [Issueist](issueist.md) / [Topician](topician.md)
+- 一箇所にまとめる: [Richild](richild.md) / [Monolith](monolith.md)
+- 繰り返しの力でまわす: [Robot](robot.md) / [Tracker](tracker.md)
+- 自分の脳内が正義: [Inboxer](inboxer.md)
+- 関連: [オプラン](oplan.md) / [アクティブレイジー](active_lazy.md)
 
 ### プロジェクトタスク管理: 本質と実現度合い
 - [3A](3a.md) — Assign / Adjust / Alternate の枠組み
@@ -57,21 +67,22 @@
 - [プロセスの管理](process_management.md)
 - [リソースの管理](resource_management.md)
 - [専有の管理](property_management.md)
-- [脱拘束](unbinding.md) — 専有を軽減する営み
+- [脱拘束](unbinding.md)
 
 ### パートナータスク管理: 本質と前提
 - [3C](3c.md) — Chat per Task / Calendar View / Concept
-- [ファミリア・デバフ](familiar_debuff.md) — 親しい間柄ゆえのデバフ
-- [トーカビリティ](talkability.md) — 対話できる素養
+- [ファミリア・デバフ](familiar_debuff.md)
+- [トーカビリティ](talkability.md)
 
 ### 姿勢
-- [模索](exploration.md) — 自分に合ったタスク管理を自分で探すこと
+- [模索](exploration.md)
 
 ## 出典
 - [「タスク管理を眺める」](source_view_taskmanagement.md)
 - [「個人タスク管理を眺める」](source_view_personal_taskmanagement.md)
 - [「プロジェクトタスク管理」](source_project_taskmanagement.md)
 - [「パートナータスク管理」](source_partner_taskmanagement.md)
+- [「タスク管理の戦略」](source_strategy.md)
 
 ## ログ
-- [ログ](_log.md) — ingest / query / lint の時系列記録
+- [ログ](_log.md)

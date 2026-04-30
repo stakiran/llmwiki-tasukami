@@ -24,6 +24,7 @@
 - [タスク](task.md) — タスクの定義
 - [タスク管理](task_management.md) — オルタスクとの区別を含む
 - [戦略](strategies.md) — 「繰り返しの力でまわす」戦略は習慣・日課を運用する側面が強い
+- [ルーチンタスク](routine_task.md) — 習慣・日課はルーチンタスクの一種でもある
 
 ## 出典
 - [「タスク管理を眺める」](source_view_taskmanagement.md)
