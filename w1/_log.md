@@ -1,8 +1,3 @@
----
-title: log
-description: Tasukami Wiki (w1) の時系列ログ
----
-
 # Log
 
 ## [2026-04-30] ingest | view_taskmanagement「タスク管理を眺める」

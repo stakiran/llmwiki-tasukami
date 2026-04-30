@@ -1,10 +1,3 @@
----
-title: タスク管理
-description: Management としての性格を持つ営み
-type: concept
-aliases: [タスク管理, Task Management]
----
-
 # タスク管理 (Task Management)
 
 タスクを管理すること。ただし「管理」のニュアンスが、世間で言う管理とは違う点に注意がいる。

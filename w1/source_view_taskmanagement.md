@@ -1,12 +1,3 @@
----
-title: 「タスク管理を眺める」
-description: 「タスク管理を噛み砕く」第 2 章の要約
-type: source
-chapter: タスク管理を眺める
-raw: raw/view_taskmanagement.md
-ingested: 2026-04-30
----
-
 # 「タスク管理を眺める」
 
 本書のイントロにあたる章。タスク管理という営みを「眺める」という姿勢で導入し、土台となる概念を一気に提示する。

@@ -1,10 +1,3 @@
----
-title: MCA
-description: 「管理」の 3 ニュアンス。Management / Control / Administration
-type: concept
-aliases: [MCA, Management, Control, Administration]
----
-
 # MCA — 管理の 3 ニュアンス
 
 「●●管理」と呼ばれるものには 3 種類のニュアンスがある。

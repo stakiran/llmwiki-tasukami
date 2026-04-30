@@ -1,8 +1,3 @@
----
-title: index
-description: Tasukami Wiki (w1) のカタログ
----
-
 # Tasukami Wiki — Index
 
 「タスク管理を噛み砕く」を ingest して構築している Wiki。w1 はおまかせモードで生成されている。

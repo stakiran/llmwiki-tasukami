@@ -1,10 +1,3 @@
----
-title: 個人タスク管理
-description: 本書の主題
-type: concept
-aliases: [個人タスク管理, Personal Task Management, パーソナルタスク管理]
----
-
 # 個人タスク管理
 
 個人が自分のタスクを自分で管理する形のタスク管理。[3P 分類](3p.md) の Personal に対応し、**本書の主題**。

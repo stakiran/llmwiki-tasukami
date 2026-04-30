@@ -1,10 +1,3 @@
----
-title: プロジェクトタスク管理
-description: チームで行うタスク管理
-type: concept
-aliases: [プロジェクトタスク管理, Project Task Management]
----
-
 # プロジェクトタスク管理
 
 仕事におけるチームなど、複数人で行うタスク管理。[3P 分類](3p.md) の Project に対応する。

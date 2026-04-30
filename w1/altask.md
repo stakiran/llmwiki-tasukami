@@ -1,10 +1,3 @@
----
-title: オルタスク
-description: タスクのように見えるがタスクではないもの
-type: concept
-aliases: [オルタスク, Altask, Alternative Task]
----
-
 # オルタスク (Altask)
 
 **Alternative Task** の略。直訳は「代替タスク」。タスクとは異なるやり方で対処する必要があるものを指す。
