@@ -1,0 +1,37 @@
+title: "タスク管理を噛み砕く"
+summary: "タスク管理を噛み砕きます。ツールや運用例の紹介よりも、本質や考え方や種類などに焦点を当てます。また、プロジェクトのタスク管理よりも個人のタスク管理を主に扱います。"
+topics: ["タスク管理"]
+published: true
+price: 0
+toc_depth: 2
+chapters:
+  - about
+  - chap1
+  - view_taskmanagement
+  - view_personal_taskmanagement
+  - project_taskmanagement
+  - partner_taskmanagement
+  - chap2
+  - strategy
+  - stance
+  - chap3
+  - container
+  - event
+  - motto
+  - memo
+  - source
+  - chap4
+  - dousen_and_remind
+  - habit
+  - context
+  - warp
+  - furikaeri
+  - attributes
+  - chap5
+  - plaintext
+  - literate
+  - exploratory
+  - exploratory2
+  - ref
+  - gpts
+  - atogaki
