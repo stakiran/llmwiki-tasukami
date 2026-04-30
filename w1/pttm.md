@@ -269,6 +269,7 @@ todo.txt のフレームワーク、`-` と `x` のシンプルなもの、Markd
 - [オルタスク](altask.md) — PTTM では扱わない（限定的に [コンテナ](container.md) と [メモ](memo.md) は扱える）
 - [ルーチンタスク](routine_task.md) — PTTM では扱わない
 - [模索](exploration.md) — PTTM の本質は模索
+- [LTM（文芸的タスク管理）](ltm.md) — 同じくテキストベースだがノートとネットワークを使う別アプローチ。PTTM のダイアリーベースは LTM 未満
 
 ## 出典
 - [「プレーンテキストによるタスク管理」](source_plaintext.md)

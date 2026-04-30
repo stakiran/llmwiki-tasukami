@@ -110,6 +110,10 @@
 - [プレーンテキスト](plain_text.md) — 媒体の仕様 + 5 つの道具（IME / エディタ / 形式記法 / 情報管理 / ヘルパー）
 - [PTTM](pttm.md) — プレーンテキストタスク管理。設計原則・扱わないもの・設計概念
 
+### 文芸的タスク管理 (LTM)
+- [ネットワーク型ノートツール](network_note.md) — リンクでノートを繋ぐパラダイム（Scrapbox / Obsidian）。トピック指向、第二の脳、無限キャンバスとの比較
+- [LTM](ltm.md) — 文章を読み書きする営みベースのタスク管理。ホーム / メモタスク文脈の 3 種 / エリアとマーク / アンカバード / ライティングスタック / 切り出し / アイキャッチとエキサイトメント
+
 ## 出典
 - [「タスク管理を眺める」](source_view_taskmanagement.md)
 - [「個人タスク管理を眺める」](source_view_personal_taskmanagement.md)
@@ -129,6 +133,7 @@
 - [「振り返り」](source_furikaeri.md)
 - [「タスクの属性」](source_attributes.md)
 - [「プレーンテキストによるタスク管理」](source_plaintext.md)
+- [「文芸的タスク管理」](source_literate.md)
 
 ## ログ
 - [ログ](_log.md)

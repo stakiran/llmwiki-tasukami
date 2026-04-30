@@ -64,6 +64,7 @@
 - [スラキスト](slackist.md) / [ミキサー](mixer.md) — 同じ「盤外戦」系
 - [調動脈](choudoumyaku.md) — 文脈の重視
 - [Issueist](issueist.md) / [Topician](topician.md) — ノートテイキング
+- [LTM（文芸的タスク管理）](ltm.md) — 文脈重視を体現するタスク管理手法
 
 ## 出典
 - [「タスク管理のスタンス」](source_stance.md)

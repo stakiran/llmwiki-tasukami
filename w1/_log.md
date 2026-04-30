@@ -223,3 +223,24 @@
     - **VSCode / 秀丸 / SAKURA Editor / メモ帳 / mi / CotEditor / Markdown / HTML / JSON / Text Expansion / Gyazo Pro / PowerToys / todo.txt / ワークインライフ / ワークアズライフ** は inline 言及のみ
     - 先人の実践例 8 件はリンクとして [PTTM](pttm.md) 内に残した（章内コンテンツとして価値が高いため）
     - chap5 の 1 つ目（chap5 = plaintext / literate / exploratory / exploratory2 / ref、計 5 章）
+
+## [2026-05-01] ingest | literate「文芸的タスク管理」
+- 出典: `raw/literate.md`（489 行）
+- 要約ページ: [「文芸的タスク管理」](source_literate.md)
+- 新規作成した概念ページ:
+    - [ネットワーク型ノートツール](network_note.md) — リンクでノートを繋ぐパラダイム。トピック指向、第二の脳、無限キャンバス比較、アウトライナーとの違い
+    - [LTM](ltm.md) — 文芸的タスク管理本体。ホーム 4 種 / メモタスク文脈の 3 種 / エリアとマーク / アンカバード / 文脈のつくりかた / ライティングスタック / 切り出し / 微修正とエイリアス / アイキャッチとエキサイトメント
+- 既存ページの更新:
+    - [PTTM](pttm.md) — 関連に LTM を追加（PTTM のダイアリーベースは LTM 未満）
+    - [オルタスク](altask.md) / [ルーチンタスク](routine_task.md) — LTM でもアンカバード扱い、を関連に追記
+    - [メモ](memo.md) — LTM の 3 種類の情報の一つ、を関連に追記
+    - [コンテキストン](contexton.md) — 文脈重視のタスク管理として LTM を関連に追記
+    - [Topician](topician.md) — 仮置きの「後の章 literate.md」を [LTM](ltm.md) と [ネットワーク型ノートツール](network_note.md) への正式リンクに置換
+- メモ:
+    - 粒度判断: plaintext と同じ「媒体 vs 実践」分割（[ネットワーク型ノートツール](network_note.md) ↔ [LTM](ltm.md)）。plain_text ↔ pttm の構造に揃える
+    - 章固有の小概念（**ホーム / ライティングスタック / 切り出し / 微修正とエイリアス / アイキャッチ / エキサイトメント / アンカバード / タスクビュー / タスクノート / エリアとマーク / トランク / 日付ノート / ホームノート / ホームビュー**）はすべて [LTM](ltm.md) のセクションに収める（warp/furikaeri/attributes パターン）
+    - **ダイアリーベース / プロジェクトベース / ネットワークベース** の 3 スタイルも [LTM](ltm.md) 内のセクション
+    - **イメージスタック** はライティングスタックの対比として `ltm.md` 内に収める
+    - **Scrapbox / Obsidian / Roam Research / Logseq / WorkFlowy / Dynalist / Miro / Jupyter Notebook / hown / Embark** は inline 言及のみ
+    - 文芸的プログラミングは [LTM](ltm.md) のルーツ節で軽く触れるのみ
+    - chap5 の 2 つ目（残り: exploratory / exploratory2 / ref）

@@ -136,6 +136,7 @@
 - [調動脈](choudoumyaku.md) — 納得感
 - [アスリートとアプライア](athlete_applier.md) — タイミングの壁の越えやすさ
 - [PTTM](pttm.md) — メモは PTTM ファイルに直接書ける数少ないオルタスク。3 秒の壁とも繋がる
+- [LTM](ltm.md) — メモは LTM の 3 種類の情報の一つ（メモ/タスク/文脈）
 
 ## 出典
 - [「メモ」](source_memo.md)
