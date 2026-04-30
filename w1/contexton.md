@@ -65,6 +65,7 @@
 - [調動脈](choudoumyaku.md) — 文脈の重視
 - [Issueist](issueist.md) / [Topician](topician.md) — ノートテイキング
 - [LTM（文芸的タスク管理）](ltm.md) — 文脈重視を体現するタスク管理手法
+- [ETM（探索的タスク管理）](etm.md) — No ABCD で文脈をネットワーク的に育てる発展形
 
 ## 出典
 - [「タスク管理のスタンス」](source_stance.md)

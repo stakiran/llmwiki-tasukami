@@ -41,6 +41,7 @@
 - [タスクソース](task_source.md) — ソースアプローチの主体
 - [発散と収束](divergent_convergent.md) — ソース運用の中心技法
 - [盤外戦](bangaisen.md) — プランに余裕を持たせるための行動
+- [ETM（探索的タスク管理）](etm.md) — 探索 → 指向のハイブリッドという発想は SP 臨界点と同じ構造
 
 ## 出典
 - [「タスクソース」](source_source.md)
