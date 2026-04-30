@@ -22,6 +22,8 @@
 
 これらの状態次第で、生まれてくるタスクが全く変わってくる。
 
+[調動脈](choudoumyaku.md)（調子・動機・文脈）はまさにこの広義の領域に属する観点で、納得感を扱う。
+
 ## なぜ広義が必要か
 
 狭義に閉じこもると、タスクやタスクを取り巻く環境がおかしい場合に詰む。
@@ -42,6 +44,8 @@
 - [タスク管理](task_management.md)
 - [プロジェクトタスク管理](project_task_management.md) — 狭義の側面が強い
 - [個人タスク管理](personal_task_management.md) — 周辺要素の重要性
+- [調動脈](choudoumyaku.md) — 広義に属する代表的な観点
+- [盤外戦](bangaisen.md) — 広義の発想に立った行動スタンス
 
 ## 出典
 - [「タスク管理を眺める」](source_view_taskmanagement.md)
