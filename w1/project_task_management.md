@@ -1,13 +1,13 @@
 ---
-title: project_task_management
-description: プロジェクトタスク管理。チームで行うタスク管理
+title: プロジェクトタスク管理
+description: チームで行うタスク管理
 type: concept
 aliases: [プロジェクトタスク管理, Project Task Management]
 ---
 
 # プロジェクトタスク管理
 
-仕事におけるチームなど、複数人で行うタスク管理。[[3p]] の Project に対応する。
+仕事におけるチームなど、複数人で行うタスク管理。[3P 分類](3p.md) の Project に対応する。
 
 ## ツール例
 - Trello
@@ -48,9 +48,9 @@ aliases: [プロジェクトタスク管理, Project Task Management]
 > やると決まったもの（あるいは決めたこと）を確実にこなすために、やることを外部化すること、およびそれをメンテナンスすること
 
 ## 関連
-- [[3p]] / [[task_management]]
-- [[partner_task_management]] / [[personal_task_management]]
-- [[axioms]] — ツールの公理（外に出すこと）
+- [3P 分類](3p.md) / [タスク管理](task_management.md)
+- [パートナータスク管理](partner_task_management.md) / [個人タスク管理](personal_task_management.md)
+- [タスク管理の公理](axioms.md) — ツールの公理（外に出すこと）
 
 ## 出典
-- [[view_taskmanagement]]
+- [「タスク管理を眺める」](source_view_taskmanagement.md)

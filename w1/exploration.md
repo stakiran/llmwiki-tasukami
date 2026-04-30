@@ -1,6 +1,6 @@
 ---
-title: exploration
-description: 自分に合ったタスク管理を「模索」することの重要性
+title: 模索
+description: 自分に合ったタスク管理を自分で探すこと
 type: concept
 aliases: [模索, 模索する]
 ---
@@ -42,9 +42,9 @@ aliases: [模索, 模索する]
 - 「うーん、くだらん」「やる気出ない」と切る
 
 ## 関連
-- [[task_management]]
-- [[personal_task_management]] — 人それぞれの本質
-- [[narrow_broad]] — 広義の視点も模索の対象
+- [タスク管理](task_management.md)
+- [個人タスク管理](personal_task_management.md) — 人それぞれの本質
+- [狭義と広義](narrow_broad.md) — 広義の視点も模索の対象
 
 ## 出典
-- [[view_taskmanagement]]
+- [「タスク管理を眺める」](source_view_taskmanagement.md)

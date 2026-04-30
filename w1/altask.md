@@ -1,6 +1,6 @@
 ---
-title: altask
-description: オルタスク。タスクのように見えるがタスクではないもの
+title: オルタスク
+description: タスクのように見えるがタスクではないもの
 type: concept
 aliases: [オルタスク, Altask, Alternative Task]
 ---
@@ -28,8 +28,8 @@ aliases: [オルタスク, Altask, Alternative Task]
 例: 習慣そのものはタスクではない。「早寝早起き」という習慣からは「朝 6:00 に起きる」「夜 22:00 に寝るための準備」といったタスクが派生する。習慣 → タスクの分解という別の営みが必要で、タスク管理だけでは扱いきれない。
 
 ## 関連
-- [[task]] — タスクの定義
-- [[task_management]] — オルタスクとの区別を含む
+- [タスク](task.md) — タスクの定義
+- [タスク管理](task_management.md) — オルタスクとの区別を含む
 
 ## 出典
-- [[view_taskmanagement]]
+- [「タスク管理を眺める」](source_view_taskmanagement.md)

@@ -7,29 +7,29 @@ description: Tasukami Wiki (w1) のカタログ
 
 「タスク管理を噛み砕く」を ingest して構築している Wiki。w1 はおまかせモードで生成されている。
 
-## 概念（Concepts）
+## 概念
 
 ### タスクそのもの
-- [[task]] — タスクとは何か。複数の定義と、定義を持つことの意義
-- [[altask]] — オルタスク、タスクのように見えてタスクではないもの
+- [タスク](task.md) — タスクとは何か。複数の定義と、定義を持つことの意義
+- [オルタスク](altask.md) — タスクのように見えてタスクではないもの
 
 ### タスク管理の捉え方
-- [[task_management]] — タスク管理とは。Management としての性格
-- [[narrow_broad]] — 狭義のタスク管理と広義のタスク管理
-- [[mca]] — Management / Control / Administration の 3 区分
-- [[axioms]] — タスク管理の公理（ツールの公理、解釈の公理）
+- [タスク管理](task_management.md) — タスク管理とは。Management としての性格
+- [狭義と広義](narrow_broad.md) — 狭義のタスク管理と広義のタスク管理
+- [MCA](mca.md) — Management / Control / Administration の 3 区分
+- [タスク管理の公理](axioms.md) — ツールの公理、解釈の公理
 
 ### タスク管理の分類
-- [[3p]] — 3P 分類（Project / Partner / Personal）
-- [[project_task_management]] — プロジェクトタスク管理
-- [[partner_task_management]] — パートナータスク管理
-- [[personal_task_management]] — 個人タスク管理
+- [3P 分類](3p.md) — Project / Partner / Personal
+- [プロジェクトタスク管理](project_task_management.md)
+- [パートナータスク管理](partner_task_management.md)
+- [個人タスク管理](personal_task_management.md)
 
 ### 姿勢
-- [[exploration]] — 模索することの重要性
+- [模索](exploration.md) — 自分に合ったタスク管理を自分で探すこと
 
-## 出典（Sources）
-- [[view_taskmanagement]] — 第 2 章「タスク管理を眺める」
+## 出典
+- [「タスク管理を眺める」](source_view_taskmanagement.md) — 第 2 章
 
 ## ログ
-- [[log]] — ingest / query / lint の時系列記録
+- [ログ](_log.md) — ingest / query / lint の時系列記録

@@ -1,13 +1,13 @@
 ---
-title: partner_task_management
-description: パートナータスク管理。夫婦や親子など親密な少人数の家族間で行うタスク管理
+title: パートナータスク管理
+description: 夫婦や親子など親密な少人数の家族間で行うタスク管理
 type: concept
 aliases: [パートナータスク管理, Partner Task Management]
 ---
 
 # パートナータスク管理
 
-夫婦や親子など、恒常的に一緒に暮らしている親密な少人数の家族間で使われるタスク管理。[[3p]] の Partner に対応する。著者独自の呼称。
+夫婦や親子など、恒常的に一緒に暮らしている親密な少人数の家族間で使われるタスク管理。[3P 分類](3p.md) の Partner に対応する。著者独自の呼称。
 
 ## 変遷
 
@@ -30,8 +30,8 @@ aliases: [パートナータスク管理, Partner Task Management]
 著者の観測範囲は夫婦・家族間のみ。シェアメイトでも成立し得る可能性に触れている。
 
 ## 関連
-- [[3p]] / [[task_management]]
-- [[project_task_management]] / [[personal_task_management]]
+- [3P 分類](3p.md) / [タスク管理](task_management.md)
+- [プロジェクトタスク管理](project_task_management.md) / [個人タスク管理](personal_task_management.md)
 
 ## 出典
-- [[view_taskmanagement]]
+- [「タスク管理を眺める」](source_view_taskmanagement.md)

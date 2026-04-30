@@ -1,13 +1,13 @@
 ---
-title: personal_task_management
-description: 個人タスク管理。本書の主題
+title: 個人タスク管理
+description: 本書の主題
 type: concept
 aliases: [個人タスク管理, Personal Task Management, パーソナルタスク管理]
 ---
 
 # 個人タスク管理
 
-個人が自分のタスクを自分で管理する形のタスク管理。[[3p]] の Personal に対応し、**本書の主題**。
+個人が自分のタスクを自分で管理する形のタスク管理。[3P 分類](3p.md) の Personal に対応し、**本書の主題**。
 
 ## 本質: 人それぞれ
 
@@ -34,13 +34,13 @@ A・B・C の各タスク管理は、互いには通じない。
 
 > タスク管理は、実はタスク管理の周辺の要素こそが重要
 
-[[narrow_broad|広義のタスク管理]] の発想と地続きになっている。
+[広義のタスク管理](narrow_broad.md) の発想と地続きになっている。
 
 ## 関連
-- [[3p]] / [[task_management]]
-- [[project_task_management]] / [[partner_task_management]]
-- [[narrow_broad]] — 周辺要素を扱う広義の視点
-- [[exploration]] — 自分に合った管理を模索する
+- [3P 分類](3p.md) / [タスク管理](task_management.md)
+- [プロジェクトタスク管理](project_task_management.md) / [パートナータスク管理](partner_task_management.md)
+- [狭義と広義](narrow_broad.md) — 周辺要素を扱う広義の視点
+- [模索](exploration.md) — 自分に合った管理を模索する
 
 ## 出典
-- [[view_taskmanagement]]
+- [「タスク管理を眺める」](source_view_taskmanagement.md)

@@ -1,5 +1,5 @@
 ---
-title: mca
+title: MCA
 description: 「管理」の 3 ニュアンス。Management / Control / Administration
 type: concept
 aliases: [MCA, Management, Control, Administration]
@@ -39,8 +39,8 @@ aliases: [MCA, Management, Control, Administration]
 - Control や Administration は手段としては有効だが、それだけではない
 
 ## 関連
-- [[task_management]] — タスク管理が Management であること
-- [[axioms]] — タスク管理の公理
+- [タスク管理](task_management.md) — タスク管理が Management であること
+- [タスク管理の公理](axioms.md)
 
 ## 出典
-- [[view_taskmanagement]]
+- [「タスク管理を眺める」](source_view_taskmanagement.md)

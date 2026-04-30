@@ -1,5 +1,5 @@
 ---
-title: narrow_broad
+title: 狭義と広義
 description: 狭義のタスク管理と広義のタスク管理
 type: concept
 aliases: [狭義のタスク管理, 広義のタスク管理, 狭義と広義]
@@ -13,7 +13,7 @@ aliases: [狭義のタスク管理, 広義のタスク管理, 狭義と広義]
 
 純粋にタスクを管理するという意味でのタスク管理。タスクの管理しか見ていないので、タスク自体の是非、タスクを扱う人、環境といった視点は持ちづらい（想定もされていない）。
 
-特に [[project_task_management]] はこの側面が強い。良くも悪くも、人をタスク消化の機械として扱う。
+特に [プロジェクトタスク管理](project_task_management.md) はこの側面が強い。良くも悪くも、人をタスク消化の機械として扱う。
 
 ## 広義のタスク管理
 
@@ -46,9 +46,9 @@ aliases: [狭義のタスク管理, 広義のタスク管理, 狭義と広義]
 他人に冷静に指摘されるとイラついて反抗したくもなる。だからこそ、きちんと向き合い、上手く扱えるようになりたい。本書では広義的視点がしばしば登場する。
 
 ## 関連
-- [[task_management]]
-- [[project_task_management]] — 狭義の側面が強い
-- [[personal_task_management]] — 周辺要素の重要性
+- [タスク管理](task_management.md)
+- [プロジェクトタスク管理](project_task_management.md) — 狭義の側面が強い
+- [個人タスク管理](personal_task_management.md) — 周辺要素の重要性
 
 ## 出典
-- [[view_taskmanagement]]
+- [「タスク管理を眺める」](source_view_taskmanagement.md)
