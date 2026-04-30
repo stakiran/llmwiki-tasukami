@@ -9,6 +9,15 @@
 - どのように ingest するかは、あなたに任せる
     - もしユーザーが詳細な ingest を述べてきた場合、w1 の思想に背く旨をユーザーに知らせて確認させよ
 - Markdown で出力せよ
+- 以下の章はコンテンツを含まないため、無視せよ
+    - about
+    - chap1
+    - chap2
+    - chap3
+    - chap4
+    - chap5
+    - atogaki
+    - gpts
 
 ## w2
 未定義。
