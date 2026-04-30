@@ -57,6 +57,7 @@ A・B・C の各タスク管理は、互いには通じない。
 - [プロジェクトタスク管理](project_task_management.md) / [パートナータスク管理](partner_task_management.md)
 - [狭義と広義](narrow_broad.md) — 周辺要素を扱う広義の視点
 - [模索](exploration.md) — 自分に合った管理を模索する
+- [脱拘束](unbinding.md) — プロジェクト文脈で「脱拘束は個人タスク管理と同義」と位置づけられている
 
 ## 出典
 - [「タスク管理を眺める」](source_view_taskmanagement.md)

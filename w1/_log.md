@@ -38,3 +38,24 @@
     - 文脈（Context）は重要かつ奥深い概念として後の章へ持ち越し（[choudoumyaku.md](choudoumyaku.md) 内に予告のみ）
     - 盤外戦の詳細はパートナータスク管理の章で扱われる予定。現時点ではこの章での記述から要約ページを作成
     - ポモドーロ・テクニック、タスクシュート、アイビー・リー・メソッド、時間管理マトリクス、マニャーナの法則、タイムボックス、Habitica などの固有名詞は inline 言及のみ。`ref.md` を ingest した際にリンクを張る想定
+
+## [2026-05-01] ingest | project_taskmanagement「プロジェクトタスク管理」
+- 出典: `raw/project_taskmanagement.md`
+- 要約ページ: [「プロジェクトタスク管理」](source_project_taskmanagement.md)
+- 新規作成した概念ページ:
+    - [3A](3a.md) / [Assign](assign.md) / [Adjust](adjust.md) / [Alternate](alternate.md) / [Alternate モデル](alternate_model.md)
+    - [ビューの種類](views.md)
+    - [シャドータスク](shadow_task.md) / [キャパシティ](capacity.md) / [バッファとスラック](buffer_slack.md)
+    - [5 つの管理対象](management_targets.md) / [進捗の管理](progress_management.md) / [質の管理](quality_management.md) / [プロセスの管理](process_management.md) / [リソースの管理](resource_management.md) / [専有の管理](property_management.md)
+    - [脱拘束](unbinding.md)
+- 既存ページの更新:
+    - [プロジェクトタスク管理](project_task_management.md) — 章全体のハブとして大幅増補
+    - [パートナータスク管理](partner_task_management.md) — 注視機能の洗練について本書での言及を追記
+    - [個人タスク管理](personal_task_management.md) — [脱拘束](unbinding.md) との同義性を追記
+    - [スタンス](stances.md) — Automation の詳細が [ビューの種類](views.md) 余談に展開されている旨を追記
+- メモ:
+    - 678 行の大ボリューム章。プロジェクトタスク管理の体系的整理が一通り完了
+    - **反応的状況**（Reactive Situation）は [Adjust](adjust.md) 内のセクションに収めた（独立ページにせず）
+    - **強い人** はシャドータスク文脈で繰り返し登場。[shadow_task.md](shadow_task.md) と [capacity.md](capacity.md) の両方で取り上げ
+    - **ネガティブ・ケイパビリティ**、**プロセス原理主義**、**グッドハートの法則** は inline 言及のみ
+    - **文芸的タスク管理** は後の章（literate.md）で扱われる予定。views.md の「ネットワーク」「センテンス」で言及
