@@ -31,6 +31,7 @@
 - [タスクソース](task_source.md) — オルタスクの多くは「タスクの源泉」となる（目標事項は[コンテナ](container.md)、維持事項は習慣や[モットー](motto.md)）
 - [戦略](strategies.md) — 「繰り返しの力でまわす」戦略は習慣・日課を運用する側面が強い
 - [ルーチンタスク](routine_task.md) — 習慣・日課はルーチンタスクの一種でもある
+- [PTTM](pttm.md) — プレーンテキストタスク管理ではオルタスクは原則扱わない（[コンテナ](container.md) と [メモ](memo.md) のみ限定的に扱える）
 
 ## 出典
 - [「タスク管理を眺める」](source_view_taskmanagement.md)

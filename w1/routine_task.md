@@ -28,6 +28,7 @@
 ## 関連
 - [Robot](robot.md) / [Tracker](tracker.md)
 - [オルタスク](altask.md) — 習慣・日課はオルタスクに含まれる
+- [PTTM](pttm.md) — プレーンテキストタスク管理ではルーチンタスクは扱わない（毎日の判断が面倒くさいため）
 
 ## 出典
 - [「タスク管理の戦略」](source_strategy.md)

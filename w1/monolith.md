@@ -36,7 +36,7 @@ Monolith = 一枚岩。IT 文脈では「何でも詰め込んだあり方」の
 - **Task Monolith** — タスクのみ。現代は SaaS 充実で多数派
 - **Note Monolith** — タスク以外も全部（日記、ネット見て気になったこと、問い合わせ下書きなど）
 
-詳細は **プレーンテキストタスク管理**（後の章 plaintext.md で扱う予定）に繋がる。
+詳細は [PTTM（プレーンテキストタスク管理）](pttm.md) に繋がる。
 
 ### クラウドツールでの Monolith は可能か
 **難しい**:
@@ -72,6 +72,8 @@ Monolith = 一枚岩。IT 文脈では「何でも詰め込んだあり方」の
 - [戦略](strategies.md)
 - [Richild](richild.md) — 物タスク版の「一箇所にまとめる」
 - [Topician](topician.md) — 複数ファイル版（Wiki/ノート）
+- [PTTM](pttm.md) — プレーンテキスト前提のタスク管理。情報管理は単一ファイル（Monolith 的）が推奨
+- [プレーンテキスト](plain_text.md) — 媒体としての前提知識
 
 ## 出典
 - [「タスク管理の戦略」](source_strategy.md)

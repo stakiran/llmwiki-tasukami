@@ -203,3 +203,23 @@
     - **重要な注意**: タスク管理には 2 つの異なる「3A」がある。本章の **Attribute/Arrow/Attachment**（タスク構成）と、[3a.md](3a.md) で扱う **Assign/Adjust/Alternate**（プロジェクトタスク管理の本質）。同名異概念
     - 章内の概念（属性のジレンマ、ツールのパラドックス、ルーチンタスク設置方式 3 つ、キャンセルタスク、貢献者属性のジレンマ、Manual Listup）はすべて [attributes.md](attributes.md) 内のセクションに収めた
     - chap4 完了 = dousen_and_remind / habit / context / warp / furikaeri / attributes（6 章）
+
+## [2026-05-01] ingest | plaintext「プレーンテキストによるタスク管理」
+- 出典: `raw/plaintext.md`（839 行）
+- 要約ページ: [「プレーンテキストによるタスク管理」](source_plaintext.md)
+- 新規作成した概念ページ:
+    - [プレーンテキスト](plain_text.md) — 媒体の仕様（行・文字・保存単位・カーソル・デジタル特有）+ 5 つの道具（IME / エディタ / 形式記法 / 情報管理 / ヘルパー）
+    - [PTTM](pttm.md) — プレーンテキストタスク管理。タスクリスト + 属性の運用、6 設計原則、扱わないもの、設計概念
+- 既存ページの更新:
+    - [オルタスク](altask.md) — PTTM では原則扱わない旨を関連に追記
+    - [ルーチンタスク](routine_task.md) — PTTM では扱わない旨を関連に追記
+    - [Monolith](monolith.md) — 「後の章で扱う予定」を [PTTM](pttm.md) への正式リンクに置換、関連に PTTM / プレーンテキストを追加
+    - [Dailer](dailer.md) — PTTM のデイリータスクリスト推奨を関連に追記
+    - [メモ](memo.md) — PTTM ファイルに直接書ける旨を関連に追記
+- メモ:
+    - 粒度判断: warp/furikaeri/attributes パターンに倣い、章固有の小概念は親ページに集約
+    - 「5 つの道具」は単一の名前を持った概念ではないため、独立ページ化せず [プレーンテキスト](plain_text.md) のセクションに収める（context/load_context の関係に近い独立化に留める）
+    - 章内の独自用語（**管理的安全性 / 3 秒の壁 / 曖昧な日付感 / 管理範囲 / 動線化 / フォーマット統一**）はすべて [PTTM](pttm.md) のセクション化
+    - **VSCode / 秀丸 / SAKURA Editor / メモ帳 / mi / CotEditor / Markdown / HTML / JSON / Text Expansion / Gyazo Pro / PowerToys / todo.txt / ワークインライフ / ワークアズライフ** は inline 言及のみ
+    - 先人の実践例 8 件はリンクとして [PTTM](pttm.md) 内に残した（章内コンテンツとして価値が高いため）
+    - chap5 の 1 つ目（chap5 = plaintext / literate / exploratory / exploratory2 / ref、計 5 章）

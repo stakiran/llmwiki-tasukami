@@ -106,6 +106,10 @@
 ### 姿勢
 - [模索](exploration.md)
 
+### プレーンテキストによるタスク管理 (PTTM)
+- [プレーンテキスト](plain_text.md) — 媒体の仕様 + 5 つの道具（IME / エディタ / 形式記法 / 情報管理 / ヘルパー）
+- [PTTM](pttm.md) — プレーンテキストタスク管理。設計原則・扱わないもの・設計概念
+
 ## 出典
 - [「タスク管理を眺める」](source_view_taskmanagement.md)
 - [「個人タスク管理を眺める」](source_view_personal_taskmanagement.md)
@@ -124,6 +128,7 @@
 - [「割り込みと脱線」](source_warp.md)
 - [「振り返り」](source_furikaeri.md)
 - [「タスクの属性」](source_attributes.md)
+- [「プレーンテキストによるタスク管理」](source_plaintext.md)
 
 ## ログ
 - [ログ](_log.md)

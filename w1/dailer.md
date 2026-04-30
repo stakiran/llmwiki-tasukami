@@ -47,6 +47,7 @@
 - [Calendarer](calendarer.md) / [Slotter](slotter.md) — 同じ「時間で区切る」系
 - [浅いタスク管理](shallow_deep.md)
 - [Issueist](issueist.md) — Dailer 風に Issue を運用する手も
+- [PTTM](pttm.md) — プレーンテキストタスク管理でもデイリータスクリストは推奨
 
 ## 出典
 - [「タスク管理の戦略」](source_strategy.md)
