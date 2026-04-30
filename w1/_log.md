@@ -65,3 +65,69 @@
     - **Maximize Positives / Minimize Negatives** は inline 言及（[リジェクター](rejecter.md) / [フラティズム](flatism.md) で繋がっている）
     - **GTD の 2 分ルール / フロントローディング** は inline 言及。`ref.md` ingest 時に独立リンク化を検討
     - **暇と退屈の倫理学** は書籍参照、inline 言及のみ
+
+## [2026-05-01] ingest | container「コンテナ」
+- 出典: `raw/container.md`
+- 要約ページ: [「コンテナ」](source_container.md)
+- 新規作成した概念ページ:
+    - [コンテナ](container.md) — オルタスク「入れ物」の本格定義
+    - [コンテキストタグ](context_tag.md) — 文脈（Context）とは別概念
+- 既存ページの更新:
+    - [オルタスク](altask.md) — 入れ物の説明から [コンテナ](container.md) への参照を追記
+- メモ:
+    - 章内の名前付き概念（リッチコンテナ/プレインコンテナ、箱モデル/接続モデル、こうもり問題、コンテナのパピプペポ、コミュニケーション 1.0、4 Based）はすべて [コンテナ](container.md) 内のセクションに収めた
+    - **PARA メソッド** / **PMBOK** / **GTD** / **HEY** / **Wrike** は inline 言及のみ
+    - **Scrapbox** は Topician と本章の両方で言及。`ref.md` ingest 時にリンク化検討
+    - chap3 = container / event / motto / memo / source（オルタスクの各論）の最初
+
+## [2026-05-01] ingest | event「イベント」
+- 出典: `raw/event.md`
+- 要約ページ: [「イベント」](source_event.md)
+- 新規作成した概念ページ:
+    - [イベント](event.md) — オルタスク「予定」の本格定義
+- 既存ページの更新:
+    - [オルタスク](altask.md) — 「予定」の説明から [イベント](event.md) への参照を追記
+- メモ:
+    - 章内の小概念（割り込み、ミュートデイ、儀式、メリハリ制/明示的提案/ダミーイベント、グッドタイム/バッドタイム）はすべて [イベント](event.md) 内のセクションに収めた
+    - **GitLab Coffee Chat / デスマーチ / タイムボックス** は inline 言及のみ
+    - chap3 の 2 つ目（オルタスク各論）
+
+## [2026-05-01] ingest | motto「モットー」
+- 出典: `raw/motto.md`
+- 要約ページ: [「モットー」](source_motto.md)
+- 新規作成した概念ページ:
+    - [モットー](motto.md) — オルタスク「ビジョン・理念・標語・心がけ」の本格定義
+    - [アスリートとアプライア](athlete_applier.md) — タスク管理の 2 才能（独立ページ化、本書全体に関わる二分法のため）
+- 既存ページの更新:
+    - [オルタスク](altask.md) — 「ビジョン・理念・標語・心がけ」の説明から [モットー](motto.md) への参照を追記
+- メモ:
+    - 章内の概念（応用、格言問題、エモットー/イモットー、共感事項、漂白）は親ページ内のセクションに収めた
+    - **異文化理解力** / **階層主義** / **OJT** は inline 言及のみ
+    - chap3 の 3 つ目
+
+## [2026-05-01] ingest | memo「メモ」
+- 出典: `raw/memo.md`
+- 要約ページ: [「メモ」](source_memo.md)
+- 新規作成した概念ページ:
+    - [メモ](memo.md) — オルタスク「メモ」の本格定義
+- 既存ページの更新:
+    - [オルタスク](altask.md) — 「メモ」の説明から [メモ](memo.md) への参照を追記
+- メモ:
+    - 章内の概念（メモのフロー、タイミングの壁/解読の壁、WRR Life、Act first Manage second、解釈と解読、もったいない精神）はすべて [メモ](memo.md) 内のセクションに収めた
+    - **インボックスゼロ** / **NotebookLM** / **Claude** は inline 言及のみ
+    - chap3 の 4 つ目
+
+## [2026-05-01] ingest | source「タスクソース」
+- 出典: `raw/source.md`（252 行）
+- 要約ページ: [「タスクソース」](source_source.md)
+- 新規作成した概念ページ:
+    - [タスクソース](task_source.md) — タスクの源泉と 4 種類（目標 / 維持 / 連想 / 発想事項）
+    - [発散と収束](divergent_convergent.md) — 動的な連想事項。本書全体に応用される技法
+    - [SP 臨界点](sp_threshold.md) — ソースアプローチ → プランアプローチの切り替えポイント
+- 既存ページの更新:
+    - [オルタスク](altask.md) — タスクソースとの関連を追記
+- メモ:
+    - 章内の小概念（連想リスト/トリガーリスト、俯瞰のつくりこみ、俯瞰物、要約と蒸留、ソースアプローチ/プランアプローチの 4 戦略）はすべて親ページのセクションに収めた
+    - **GTD のレビュー / PARA メソッド / オズボーンのチェックリスト / ストレングス・ファインダー / KJ 法 / ブレインストーミング** は inline 言及のみ
+    - **探索的なあり方** は後章 [探索的タスク管理](exploratory.md) で詳述予定（task_source.md と source_source.md で予告）
+    - chap3 完了 = container / event / motto / memo / source（オルタスクの各論）の最後
