@@ -36,7 +36,7 @@
 - [浅い/深いタスク管理](shallow_deep.md)
 - [アナログ/デジタル](analog_digital.md)
 - [戦略](strategies.md) — 9 戦略のハブ
-- [スタンス](stances.md)
+- [スタンス](stances.md) — 9 スタンスのハブ
 - [盤外戦](bangaisen.md)
 
 ### 個人タスク管理: 戦略の各論
@@ -46,6 +46,12 @@
 - 繰り返しの力でまわす: [Robot](robot.md) / [Tracker](tracker.md)
 - 自分の脳内が正義: [Inboxer](inboxer.md)
 - 関連: [オプラン](oplan.md) / [アクティブレイジー](active_lazy.md)
+
+### 個人タスク管理: スタンスの各論
+- 抱える量を減らす: [デリゲーター](delegator.md) / [スプリンター](sprinter.md) / [スキッパー](skipper.md)
+- 省力化する: [オートマトン](automaton.md) / [リジェクター](rejecter.md) / [フォーカシスト](focusist.md)
+- 盤外戦をする: [スラキスト](slackist.md) / [コンテキストン](contexton.md) / [ミキサー](mixer.md)
+- 関連: [メンタルロード](mental_load.md) / [フラティズム](flatism.md)
 
 ### プロジェクトタスク管理: 本質と実現度合い
 - [3A](3a.md) — Assign / Adjust / Alternate の枠組み
@@ -83,6 +89,7 @@
 - [「プロジェクトタスク管理」](source_project_taskmanagement.md)
 - [「パートナータスク管理」](source_partner_taskmanagement.md)
 - [「タスク管理の戦略」](source_strategy.md)
+- [「タスク管理のスタンス」](source_stance.md)
 
 ## ログ
 - [ログ](_log.md)
