@@ -131,3 +131,75 @@
     - **GTD のレビュー / PARA メソッド / オズボーンのチェックリスト / ストレングス・ファインダー / KJ 法 / ブレインストーミング** は inline 言及のみ
     - **探索的なあり方** は後章 [探索的タスク管理](exploratory.md) で詳述予定（task_source.md と source_source.md で予告）
     - chap3 完了 = container / event / motto / memo / source（オルタスクの各論）の最後
+
+## [2026-05-01] ingest | dousen_and_remind「動線とリマインド」
+- 出典: `raw/dousen_and_remind.md`（311 行）
+- 要約ページ: [「動線とリマインド」](source_dousen_and_remind.md)
+- 新規作成した概念ページ:
+    - [リマインド](remind.md) — リマインダーの種類と戦略
+- 既存ページの更新:
+    - [動線](dousen.md) — 章 2 で予告した本格定義に大幅増補（ハブ/ジョイント、ネグレクテッド/ロスト、動線のデザイン、動線リマインド、RSAF 段階導入）
+- メモ:
+    - 章内の小概念（動線リマインド、ネグレクテッド、ロスト、ハブ/ジョイント、動線のデザイン、強度、選定→親近→RSAF の段階、オンデマンド戦略/定期戦略、5 種のリマインダー）はすべて親ページのセクションに収めた
+    - **アクティブリマインド / トラップリマインド / ロケーションリマインド / ヒューマンリマインド / 雰囲気リマインド** は [remind.md](remind.md) 内のセクションで扱い独立ページにせず
+    - chap4 の 1 つ目（chap4 = dousen_and_remind / habit / context / warp / furikaeri / attributes、計 6 章）
+
+## [2026-05-01] ingest | habit「習慣」
+- 出典: `raw/habit.md`（282 行）
+- 要約ページ: [「習慣」](source_habit.md)
+- 新規作成した概念ページ:
+    - [習慣](habit.md) — オルタスク「習慣・日課」の本格定義
+    - [ハビットエンジニアリング](habit_engineering.md) — GSAAD ループ + 悪い習慣減らし + 捨て身
+- 既存ページの更新:
+    - [オルタスク](altask.md) — 「習慣・日課」の説明から [習慣](habit.md) への参照を追記。これで 5 つすべてのオルタスクが本格定義ページにリンク済
+- メモ:
+    - 章内の小概念（GSAAD ループ、行動パラメーター、着手ベース、ハビットスタッキング、IF-THEN プランニング、定着/ハビチュエーション、撤収、妨害/排除/撹乱）はすべて [ハビットエンジニアリング](habit_engineering.md) 内のセクションに収めた
+    - **習慣の 3 種類**（良い/悪い/微妙）は [habit.md](habit.md) 内
+    - **「人間が変わる方法は 3 つ」**（時間配分・住む場所・付き合う人）は inline 言及
+    - chap4 の 2 つ目
+
+## [2026-05-01] ingest | context「コンテキスト」
+- 出典: `raw/context.md`（409 行）
+- 要約ページ: [「コンテキスト」](source_context.md)
+- 新規作成した概念ページ:
+    - [コンテキスト](context.md) — 文脈の本格定義。章 2 [調動脈](choudoumyaku.md) で持ち越されていた概念。5 種類（タスク/セルフ/ツール/トリガー/ロード）
+    - [ロードコンテキスト](load_context.md) — コンテキストスイッチング・モデル + スプリント/マラソン + 土地勘
+- 既存ページの更新:
+    - [調動脈](choudoumyaku.md) — 「文脈は後の章で詳述」の予告を [コンテキスト](context.md) への正式リンクに置き換え
+- メモ:
+    - 章内の小概念（動的/静的、文脈理解猶予、現場のコンテキスト、5W1H、ツールーロール、コンテキスト四天王、オーバーヒート/オーバーウォント/オーバーマスト、ニュートラル、4 原則、ニア、歩きづらさ）はすべて親ページのセクションに収めた
+    - **異文化理解力 / ストレングス・ファインダー / ビッグファイブ / Miro / ネガティブ・ケイパビリティ** は inline 言及のみ
+    - chap4 の 3 つ目
+
+## [2026-05-01] ingest | warp「割り込みと脱線」
+- 出典: `raw/warp.md`（298 行）
+- 要約ページ: [「割り込みと脱線」](source_warp.md)
+- 新規作成した概念ページ:
+    - [ワープ](warp.md) — 割り込み・脱線・SWAP マトリックス・4 パターン
+    - [Explicit Attention](explicit_attention.md) — Passive Strong の対処（書きながら注意を明示）
+    - [リズムリマインド](rhythm_remind.md) — Passive Strong の対処（生活リズムからのツッコミ）
+- メモ:
+    - 章内の小概念（割り込み/脱線、攻略派/防衛派、強い/弱い後回し、対処/防止、アタック/エスケープ/ガード、4 パターン詳細、シークレット・シチュエーション、木こりのジレンマ）はすべて親ページのセクションに収めた
+    - **左ききのエレン / 道は開ける / サーカディアンリズム** は inline 言及のみ
+    - chap4 の 4 つ目（残り: furikaeri / attributes）
+
+## [2026-05-01] ingest | furikaeri「振り返り」
+- 出典: `raw/furikaeri.md`（399 行）
+- 要約ページ: [「振り返り」](source_furikaeri.md)
+- 新規作成した概念ページ:
+    - [振り返り](furikaeri.md) — PROC、DWMY ヒエラルキー、4R マトリックス、KAP（知る/進む/守る）、設計やり方、タスクデット
+- メモ:
+    - 章内の概念（PROC、DWMY ヒエラルキー、4R マトリックス、KAP、Enum and Assign、振り返りアワー、Diary Based DWMY、5 分振り返りんぐ、もくもく振り返り会、タスクデット、動的/静的なヒント、MSCW）はすべて [振り返り](furikaeri.md) 内のセクションに収めた
+    - **GTD のレビュー / KPT / YWT / mad sad glad / リーンコーヒー / マリオカート / テディベア効果** は inline 言及のみ
+    - chap4 の 5 つ目（残り: attributes）
+
+## [2026-05-01] ingest | attributes「タスクの属性」
+- 出典: `raw/attributes.md`（476 行、リファレンス章）
+- 要約ページ: [「タスクの属性」](source_attributes.md)
+- 新規作成した概念ページ:
+    - [タスクの属性](attributes.md) — 3A（Attribute/Arrow/Attachment）+ 関係の 3P（Parent-Child/Point/Pre-Post）+ 9 系統 25 種類前後の属性リファレンス
+- メモ:
+    - 25+ の各属性は単独ページ化せず、リファレンス用途として 1 つの大きな [タスクの属性](attributes.md) に集約
+    - **重要な注意**: タスク管理には 2 つの異なる「3A」がある。本章の **Attribute/Arrow/Attachment**（タスク構成）と、[3a.md](3a.md) で扱う **Assign/Adjust/Alternate**（プロジェクトタスク管理の本質）。同名異概念
+    - 章内の概念（属性のジレンマ、ツールのパラドックス、ルーチンタスク設置方式 3 つ、キャンセルタスク、貢献者属性のジレンマ、Manual Listup）はすべて [attributes.md](attributes.md) 内のセクションに収めた
+    - chap4 完了 = dousen_and_remind / habit / context / warp / furikaeri / attributes（6 章）
