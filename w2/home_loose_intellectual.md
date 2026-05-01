@@ -59,6 +59,25 @@
 - [振り返りへのコメント](comment_furikaeri.md) — フレームワークが厚すぎる
 - [ハビットエンジニアリングへのコメント](comment_habit_engineering.md) — GSAAD は事後の語彙にとどめる
 
+## 気付き（コメント執筆の途中で導いた / 出会った概念）
+
+たすかみにも raw2 にも書かれていない、ゆるい知的生産の立場を取った結果として浮かんだ概念群。
+
+### 強
+- [ソフトスキルは「磨く武器」ではなく「環境選定基準」](derived_soft_skill_as_environment_filter.md)
+- [LLM はゆるい知的生産の物理的な下支え](derived_llm_loose_intellectual_substrate.md)
+- [「やってる自覚がない」がゆるい知的生産のシグナル](derived_self_awareness_signal.md)
+
+### 中
+- [顧客 / パートナー選定軸としての「バッファ許容性 + トーカビリティ」](derived_buffer_talkability_filter.md)
+- [フレームワークは「事前計画ではなく事後の振り返り語彙」として使う](derived_framework_post_hoc.md)
+- [振り返りで守るべき唯一のルールは「書き残すこと」](derived_record_only_rule.md)
+
+### 弱（仮説の卵）
+- [タスクデットは「負債」ではなく「発散の残骸」](derived_task_debt_residue.md)
+- [FIRE すべきはストイック労働だけ。井戸端は生涯続けてよい](derived_lifelong_idobata.md)
+- [モードを分けるからゆるさが守れる](derived_mode_separation.md)
+
 ## 次の問い
 
 - たすかみの語彙のうち、本当にこの立場で「使う」のはどれか。リファレンスとして眺めるだけで十分なものはどれか

@@ -38,3 +38,26 @@
 - ハビットエンジニアリングは振り返りと並ぶ「ストイック疑念」の対象。だが「人間が変わる方法は 3 つ（時間配分・住む場所・付き合う人）」「捨て身」など、ゆるい知的生産的な逃げ道もちゃんと書かれている
 - デリゲーター / スプリンター / スキッパーは独立 IC のリアルな運用インフラで、3 つのハイブリッドが現実解
 - 「ソフトスキルは武器ではなく環境選定基準」という整理は、ゆるい知的生産の立場から見たたすかみの再解釈の核になりそう
+
+## [2026-05-01] 気付きの切り出し | derived_*.md 9 ページ
+
+コメント執筆中に出てきた、たすかみにも raw2 にも書かれていない概念を独立ページに切り出した。
+
+強:
+- [derived_soft_skill_as_environment_filter.md](derived_soft_skill_as_environment_filter.md)
+- [derived_llm_loose_intellectual_substrate.md](derived_llm_loose_intellectual_substrate.md)
+- [derived_self_awareness_signal.md](derived_self_awareness_signal.md)
+
+中:
+- [derived_buffer_talkability_filter.md](derived_buffer_talkability_filter.md)
+- [derived_framework_post_hoc.md](derived_framework_post_hoc.md)
+- [derived_record_only_rule.md](derived_record_only_rule.md)
+
+弱（仮説の卵）:
+- [derived_task_debt_residue.md](derived_task_debt_residue.md)
+- [derived_lifelong_idobata.md](derived_lifelong_idobata.md)
+- [derived_mode_separation.md](derived_mode_separation.md)
+
+メタな発見:
+- 9 個を切り出してみると、相互参照が密に発生した。「環境選定基準」「事後語彙」「自覚シグナル」が他の気付きの親概念になっている。たすかみとは別系統の語彙クラスタが立ち上がっている
+- derived_mode_separation で、過去のコメント（comment_etm.md）の自分の批判が部分的に間違っていたことを認めて訂正した。コメント → 気付きの過程で、自分自身のコメントも更新対象になることが見えた
