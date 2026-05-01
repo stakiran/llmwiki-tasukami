@@ -21,3 +21,20 @@
 - ただし振り返りの章はフレームワークが厚く、教える人が必要な手法に転落する危険がある
 - ライティングスタック・切り出し・拒否ルール・統一化は、ゆるい知的生産を仕事の現場で運用するための具体的な技法集として読める
 - LLM の存在で、オートマトンのパラドックス（仕組みづくりに頭が要る）と LTM の読み返しコストが両方軽くなった。ゆるい知的生産は LLM 時代と相性が良い
+
+## [2026-05-01] 追加 ingest | 5 ページ追加
+
+[home_loose_intellectual.md](home_loose_intellectual.md) からのコメントを 5 ページ追加。これで主要トピックは概ねカバーした。
+
+- [comment_bangaisen.md](comment_bangaisen.md) — [w1/盤外戦](../w1/bangaisen.md) へ。タスクそのものを疑う哲学的支柱
+- [comment_mental_load.md](comment_mental_load.md) — [w1/メンタルロード](../w1/mental_load.md) へ。内省 → 検査 → 廃棄の順序の意味
+- [comment_habit_engineering.md](comment_habit_engineering.md) — [w1/ハビットエンジニアリング](../w1/habit_engineering.md) へ。批判込み、GSAAD は事後の語彙にとどめる
+- [comment_delegator_sprinter_skipper.md](comment_delegator_sprinter_skipper.md) — [w1/デリゲーター](../w1/delegator.md), [w1/スプリンター](../w1/sprinter.md), [w1/スキッパー](../w1/skipper.md) へ。「抱える量を減らす」インフラ
+- [comment_familiar_debuff_talkability.md](comment_familiar_debuff_talkability.md) — [w1/ファミリア・デバフ](../w1/familiar_debuff.md), [w1/トーカビリティ](../w1/talkability.md) へ。ソフトスキルは「環境選定基準」
+
+追加の発見:
+
+- 盤外戦 / メンタルロード / ファミリア・デバフ・トーカビリティの 3 つは、たすかみが「ゆるい知的生産」を支える前提条件を最も真正面から書いている部分
+- ハビットエンジニアリングは振り返りと並ぶ「ストイック疑念」の対象。だが「人間が変わる方法は 3 つ（時間配分・住む場所・付き合う人）」「捨て身」など、ゆるい知的生産的な逃げ道もちゃんと書かれている
+- デリゲーター / スプリンター / スキッパーは独立 IC のリアルな運用インフラで、3 つのハイブリッドが現実解
+- 「ソフトスキルは武器ではなく環境選定基準」という整理は、ゆるい知的生産の立場から見たたすかみの再解釈の核になりそう

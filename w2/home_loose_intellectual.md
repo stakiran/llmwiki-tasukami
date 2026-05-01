@@ -43,13 +43,21 @@
 
 たすかみの主要ページに、ゆるい知的生産の観点からコメントを付ける。
 
+### 共感寄り
 - [ETM へのコメント](comment_etm.md) — No ABCD は「ゆるい知的生産」の運用形そのもの
 - [LTM へのコメント](comment_ltm.md) — ライティングスタックは個人エンジニアの第二の脳
 - [模索へのコメント](comment_exploration.md) — 「店頭で物色する感覚」を支持する
 - [Inboxer / アクティブレイジーへのコメント](comment_inboxer.md) — 既存動線に乗ることの正当化
 - [スラキスト / フラティズムへのコメント](comment_slackist.md) — Minimize Negatives は独立 IC の生命線
 - [リジェクター / オートマトンへのコメント](comment_rejecter_automaton.md) — 怠けるための仕組みづくり
-- [振り返りへのコメント](comment_furikaeri.md) — ここはストイック寄りに見える、注意点
+- [盤外戦へのコメント](comment_bangaisen.md) — タスクそのものを疑う、ゆるい知的生産の哲学的支柱
+- [メンタルロードへのコメント](comment_mental_load.md) — 内省 → 検査 → 廃棄の順
+- [デリゲーター / スプリンター / スキッパーへのコメント](comment_delegator_sprinter_skipper.md) — 抱える量を減らすインフラ
+- [ファミリア・デバフ / トーカビリティへのコメント](comment_familiar_debuff_talkability.md) — ソフトスキルは「環境選定基準」
+
+### 批判寄り（ストイック側に倒れがち）
+- [振り返りへのコメント](comment_furikaeri.md) — フレームワークが厚すぎる
+- [ハビットエンジニアリングへのコメント](comment_habit_engineering.md) — GSAAD は事後の語彙にとどめる
 
 ## 次の問い
 
